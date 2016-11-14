@@ -1,0 +1,11 @@
+.cat {
+  width: 45%;
+  display: inline-block;
+}
+.cat img {
+  width: 100%;
+}
+
+#admin-button {
+  border-color: red;
+}
